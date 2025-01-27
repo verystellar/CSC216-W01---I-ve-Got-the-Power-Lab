@@ -7,6 +7,8 @@ public class Main {
         System.out.println(power.naivePower(1,0));
         System.out.println(power.unoptimizedPower(3,3));
         System.out.println(power.optimizedPower(1,3));
+
+        //testing is done in test directory with j-unit
     }
 
 }
